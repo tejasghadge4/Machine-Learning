@@ -2,7 +2,7 @@
 
 This repository serves as a comprehensive collection of machine learning algorithms implemented in Python. Each algorithm is accompanied by detailed explanations, code examples, and theoretical background to help users understand the underlying principles and applications.
 
-<h2> Algorithms Included:
+Algorithms Included:
 
 Linear Regression
 A fundamental algorithm for predicting a continuous target variable based on one or more predictors.
