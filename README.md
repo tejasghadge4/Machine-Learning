@@ -2,7 +2,8 @@
 
 This repository serves as a comprehensive collection of machine learning algorithms implemented in Python. Each algorithm is accompanied by detailed explanations, code examples, and theoretical background to help users understand the underlying principles and applications.
 
-Algorithms Included:
+<h2> Algorithms Included:
+
 Linear Regression
 A fundamental algorithm for predicting a continuous target variable based on one or more predictors.
 
@@ -28,14 +29,17 @@ Neural Networks
 A foundational algorithm for deep learning, suitable for a wide range of tasks including image and speech recognition.
 
 Tools & Libraries:
+
 Languages: Python
 Libraries: Scikit-learn, NumPy, Pandas, Matplotlib, TensorFlow, Keras
+
 Usage:
 Each algorithm implementation includes:
 
-Code snippets that illustrate how to use the algorithm.
-Mathematical formulations and explanations of key concepts.
-Examples demonstrating the algorithm’s application on sample datasets.
+1. Code snippets that illustrate how to use the algorithm.
+2. Mathematical formulations and explanations of key concepts.
+3. Examples demonstrating the algorithm’s application on sample datasets.
+
 Contributing:
 Contributions are welcome! If you have additional algorithms or enhancements, feel free to fork the repository and submit a pull request.
 
